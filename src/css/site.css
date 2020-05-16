@@ -112,10 +112,15 @@ a:hover {
 }
 
 .sobre,
+.portfolio {
+    min-height: 100vh;
+} 
+
+.sobre,
 .contato,
 .portfolio {
     padding: 2em;
-    min-height: 100vh;
+    border-top: solid whitesmoke;
 
 }
 
